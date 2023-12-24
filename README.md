@@ -1,5 +1,5 @@
 # Infomax Website Frontend
-Website created using HTML and CSS.
+Website created using HTML and CSS.     
 This website is created for practice purpose only.
 
 ## ScreenShots
